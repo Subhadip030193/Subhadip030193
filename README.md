@@ -8,5 +8,10 @@
 - 📫 How to reach me: https://www.linkedin.com/in/iam-subhadip-patra/
 
 🛠️ Languages and Tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="300" />
-   ![alt text](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" />
+
