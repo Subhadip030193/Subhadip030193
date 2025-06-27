@@ -3,7 +3,7 @@
 👩‍💻 About Me
 
 - 💼 I’m currently working as a Software Engineer at <a href="https://www.linkedin.com/company/tata-consultancy-services" target="_blank">TCS</a>
-- 📋 I've previously worked as a Software Developer at <a href="https://www.linkedin.com/company/webskitters/" target="_blank">WEBSKITTERS TECHNOLOGY SOLUTIONS PRIVATE LIMITED, <a href="https://www.linkedin.com/company/tekzto-solutions/" target="_blank">Tekzto Solutions & <a href="https://www.linkedin.com/company/infoway-technology-solution-limited/">Infoway technology solution Ltd</a>
+- 📋 I've previously worked as a Software Developer at <a href="https://www.linkedin.com/company/webskitters/" target="_blank">Webskitters Technology Solutions Pvt. Ltd</a>, <a href="https://www.linkedin.com/company/tekzto-solutions/" target="_blank">Tekzto Solutions</a> & <a href="https://www.linkedin.com/company/infoway-technology-solution-limited/">Infoway technology solution Ltd</a>
 - 🧭 I love exploring and working both in frontend and backend.
 - 📫 How to reach me: https://www.linkedin.com/in/iam-subhadip-patra/
 
