@@ -2,7 +2,7 @@
 
 👩‍💻 About Me
 
-- 💼 I’m currently working as a Software Engineer at TCS
+- 💼 I’m currently working as a Software Engineer at <a href="https://www.linkedin.com/company/tata-consultancy-services">TCS</a>
 - 📋 I've previously worked as a Software Developer at WEBSKITTERS TECHNOLOGY SOLUTIONS PRIVATE LIMITED, Tekzto Solutions & Infoway technology solution Ltd
 - 🧭 I love exploring and working both in frontend and backend.
 - 📫 How to reach me: https://www.linkedin.com/in/iam-subhadip-patra/
