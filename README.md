@@ -14,5 +14,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" />
 
