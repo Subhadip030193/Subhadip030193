@@ -14,6 +14,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" title="Javascript" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" title="React.JS" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" title="Redux" />
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAZlBMVEX////L3u9podLf6/UagMUAbb1fndG30ehAjcr6/P4AZboAecLG2OymxuMAdMAAarxWmc+KtNuavd+CrtgAaLu/1usxhsfm7/fb6PRxptUAcr8Ad8Hs9PkOfcN6qtYAb75Mk8ygw+K2/ZdFAAAAoElEQVR4Ae3Jg4EAMQBE0VnE5lr9F3k2Cjj8OA+/v6btvsee0O+R8QZPCfF04v15V8elVBowVjovmAutjCnrR3N9KTUPY65s6sHmxXqWyCNSsgKrC4VMAO5wE8D+hHapdx2nOIg7DRgJeEVl430GwrSzM+UdTqQBVgAj0JDpPa6Lm/ajQsvz4o4x94DuESF2dZwNRFKuGpQaAYTaAAD+uwWuHwndC3hOdwAAAABJRU5ErkJggg==" width="40" title="ArcGIS JS" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" title="jQuery" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" title="PHP" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" title="Wordpress" />
