@@ -14,7 +14,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" title="Javascript" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" title="React.JS" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" title="Redux" />
-<img src="https://enterprise.arcgis.com/assets/img/logo/esri-logo.svg" width="40" title="ArcGIS JS" />
+<img src="https://enterprise.arcgis.com/assets/img/logo/esri-logo.svg" width="85" title="ArcGIS JS" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" title="jQuery" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" title="PHP" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40" title="Wordpress" />
